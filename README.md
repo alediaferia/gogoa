@@ -12,7 +12,7 @@ Getting started
 
 The fastest way to try this project is running a Cocoa window. Actually this is the only thing you can do with it currently.
 
-```objc
+```go
 package main
 
 import (
