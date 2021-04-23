@@ -1,4 +1,6 @@
 # gogoa
+[![Go Reference](https://pkg.go.dev/badge/github.com/alediaferia/gogoa.svg)](https://pkg.go.dev/github.com/alediaferia/gogoa)
+
 Cocoa bindings for Go
 
 Why?
